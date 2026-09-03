@@ -22,6 +22,12 @@ La production du code en tant que tel ne sera pas évaluée. Cependant, la compr
 
 Il est donc important de justifier vos choix et de montrer que vous comprenez les concepts derrière le code que vous écrivez.
 
+{% hint style="info" %}
+
+Cette ressource ne fonctionne que s'il y a une participation active de votre part. Il est donc important de participer aux séances, de poser des questions et de partager vos idées avec vos camarades. (c'est d'ailleurs une des compétences que vous allez devoir démontrer lors de l'évaluation).
+
+{% endhint %}
+
 ## Grille d'évaluation
 
 | Critère | Poids |
