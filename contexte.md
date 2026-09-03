@@ -24,5 +24,14 @@ Il est donc important de justifier vos choix et de montrer que vous comprenez le
 
 ## Grille d'évaluation
 
+| Critère | Poids |
+|---|---:|
+| Participation en cours | 10% |
+| Réponses et présentations lors des "pitchs projets" | 20% |
+| Compréhension du code, structure, des choix technologiques et de design | 30% |
+| Qualité du code (respect des standards, lisibilité, maintenabilité) | 20% |
+| Qualité de l'UX et de l'accessibilité | 20% |
+
+
 ## Calendrier et points d'étapes
 
