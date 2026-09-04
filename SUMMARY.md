@@ -4,3 +4,4 @@
 
 * [Présentation](contexte.md)
 * [Seance 1 - Le pitch client](seance-1.md)
+* [Seance 2 - Le pitch client](seance-2.md)
