@@ -1,4 +1,8 @@
-# Le pitch client
+---
+hidden: true
+---
+
+# Seance 2 - Le pitch client
 
 Votre client, Alfred Pennyworth, souhaite finalement faire évoluer son site vitre en un site de vente en ligne (sans perdre le côté vitrine et présentation). Il garde les mêmes exigeances en termes de design, d'UX et d'accessibilité.
 
