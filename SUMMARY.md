@@ -3,5 +3,6 @@
 ## BUT2 - S3
 
 * [Présentation](README.md)
+* [Calendrier](but2-s3/calendrier.md)
 * [Seance 1 - Le pitch client](seance-1.md)
 * [Seance 2 - Le pitch client](seance-2.md)
